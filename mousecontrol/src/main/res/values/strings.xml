@@ -1,0 +1,17 @@
+<resources>
+
+    <string name="app_name">MouseClient</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="menu_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    
+    <string name="mouse_01">마우스 연결</string>
+    <string name="mouse_02">left</string>
+    <string name="mouse_03">right</string>
+    <string name="mouse_04">soundUp</string>
+    <string name="mouse_05">videoLeft</string>
+    <string name="mouse_06">videoRight</string>
+    <string name="mouse_07">soundDown</string>
+        
+
+</resources>
